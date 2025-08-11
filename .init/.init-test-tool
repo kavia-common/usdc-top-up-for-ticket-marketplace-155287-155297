@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/usdc-top-up-for-ticket-marketplace-155287-155297/backend"
+}
